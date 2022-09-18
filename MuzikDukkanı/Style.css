@@ -1,0 +1,49 @@
+.baslık {
+  text-align: center;
+  color: red;
+  margin-left: 40px;
+}
+
+.baslık2 {
+  color: purple;
+  text-align: center;
+  margin-left: 40px;
+}
+
+.link {
+  text-align: center;
+  color: purple;
+}
+
+.link a {
+  margin-right: 10px;
+}
+
+.Muzik_Aletleri {
+  text-align: center;
+  color: orange;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.urunler li {
+  text-align: center;
+  list-style-position: inside;
+  margin: 5px;
+  font-size: 17px;
+}
+
+.resim {
+  text-align: center;
+  list-style-position: inside;
+  margin: 10px;
+}
+
+img {
+  height: 350px;
+  width: 350px;
+}
+
+ol {
+  margin-top: 30px;
+}
