@@ -1,0 +1,54 @@
+body {
+  position: relative;
+  top: 300px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.search {
+  text-align: center;
+  background-color: gainsboro;
+  margin-bottom: 5px;
+}
+
+.arama {
+  width: 350px;
+}
+
+.bolum {
+  display: flex;
+  text-align: center;
+  gap: 5px;
+}
+
+.special {
+  text-align: center;
+  width: 800px;
+  height: 127px;
+  background-color: aquamarine;
+}
+
+.special a {
+  display: block;
+}
+
+.help {
+  text-align: center;
+  width: 250px;
+  height: 107px;
+  background-color: aqua;
+  padding-top: 20px;
+}
+
+.help a {
+  display: block;
+}
+
+.mail {
+  width: 900px;
+  height: 127px;
+
+  background-color: aquamarine;
+}
